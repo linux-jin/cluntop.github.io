@@ -4177,9 +4177,9 @@ http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?c
 #EXTINF:-1 tvg-id="11" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://112.46.105.20:8009/hls/72/index.m3u8$LR•IPV4•13『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="都市剧场" group-title="数字频道",都市剧场
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•13『线路12』
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•13『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="都市剧场" group-title="数字频道",都市剧场
-https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•13『线路13』
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•13『线路13』
 #EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" group-title="数字频道",劲爆体育
 http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008$LR•IPV4•7『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="劲爆体育" group-title="数字频道",劲爆体育
@@ -4359,9 +4359,9 @@ http://[2409:8087:5e08:25::4]:6610/000000001000/9001547084732463424/index.m3u8?c
 #EXTINF:-1 tvg-id="11" tvg-name="法治天地" group-title="上海频道",法治天地
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•13『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="法治天地" group-title="上海频道",法治天地
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•13『线路12』
+https://cc06.tv12.xyz/42.m3u8$LR•IPV4•13『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="法治天地" group-title="上海频道",法治天地
-https://cc06.tv12.xyz/42.m3u8$LR•IPV4•13『线路13』
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•13『线路13』
 #EXTINF:-1 tvg-id="1" tvg-name="第一财经" group-title="上海频道",第一财经
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8$LR•IPV4•14『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="第一财经" group-title="上海频道",第一财经
